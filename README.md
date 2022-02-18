@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giovannimangano
+- 👋 Hi, I’m @giovannimangano | Instagram: @datademic
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning C, Java
 - 💞️ I’m looking to collaborate on Data Science projects
